@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -49,6 +51,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
