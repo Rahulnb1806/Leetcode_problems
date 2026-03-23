@@ -30,14 +30,28 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
