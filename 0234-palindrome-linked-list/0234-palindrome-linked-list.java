@@ -12,11 +12,7 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         ListNode left=head;
         ListNode rigth=mid(head);
-        // left.next=null;
         rigth=revers(rigth);
-        Dis(left);
-        System.out.println();
-        Dis(rigth);
         while(left!=null&&rigth!=null)
         {
             if(left.val!=rigth.val)
@@ -50,12 +46,5 @@ class Solution {
         }
         return prev;
     }
-    public void Dis(ListNode head)
-    {
-        while(head!=null)
-        {
-            System.out.print(head.val);
-            head=head.next;
-        }
-    }
+
 }
