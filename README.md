@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/1472-design-browser-history/) | Medium |
@@ -113,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0682-baseball-game/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
