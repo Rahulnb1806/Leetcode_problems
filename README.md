@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -117,5 +119,6 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
