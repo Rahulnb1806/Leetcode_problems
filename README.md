@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/1472-design-browser-history/) | Medium |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
+| [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
