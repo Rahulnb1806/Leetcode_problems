@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/1472-design-browser-history/) | Medium |
@@ -66,6 +67,7 @@
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
