@@ -81,6 +81,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Recursion
@@ -161,6 +162,7 @@
 | [0014-longest-common-prefix](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
