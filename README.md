@@ -124,6 +124,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0067-add-binary/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0682-baseball-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@
 | [0013-roman-to-integer](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0344-reverse-string/) | Easy |
@@ -175,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
