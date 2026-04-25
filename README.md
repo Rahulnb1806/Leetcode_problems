@@ -73,6 +73,7 @@
 | [0061-rotate-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -151,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
