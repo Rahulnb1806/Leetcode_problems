@@ -28,6 +28,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0148-sort-list](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -156,4 +158,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Rahulnb1806/Leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
